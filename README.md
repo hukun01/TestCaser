@@ -1,7 +1,9 @@
 # TestCaser
 An one-click utility that retrieves the test cases from a LeetCode problem page to your clipboard.
 
-Inspired by Richard Liu's code here https://github.com/lzl124631x/LeetCode/blob/master/testcase.js
+Inspired by Richard Liu's code here https://github.com/lzl124631x/LeetCode/blob/master/testcase.js.
+
+This extension has been lightly tested with the recent contest problems from https://leetcode.com.
 
 # Installation
 This is beta version, you will install it in developer mode. It will be available via Chrome Extension Store once published.
