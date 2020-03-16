@@ -1,6 +1,6 @@
 {
     "name": "TestCaser",
-    "version": "1.0",
+    "version": "0.1",
     "manifest_version": 2,
     "description": "An one-click utility that retrieves the test cases from a LeetCode problem page to your clipboard.",
     "background": {
